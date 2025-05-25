@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.keras
+*.h5
+*.pkl
+.env
+.DS_Store
+.ipynb_checkpoints/
+tokenizer.json
+*.log
+faiss_index/
+pdfs/
