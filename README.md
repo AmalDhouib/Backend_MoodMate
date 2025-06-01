@@ -1,4 +1,4 @@
-# ChatGroq Flask Chatbot
+#  Chatbot
 
 This is a Flask-based chatbot application featuring emotion detection, PDF document search, and user management with MongoDB integration. The chatbot leverages a TensorFlow emotion detection model and Groq API for advanced language processing.
 
